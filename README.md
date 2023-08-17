@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jaskarankaurr
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python advanced 
+- 🕊️ few knowledge about c programming and  Java language 
+- 🌱 I’m currently learning python
 - 💞️ I’m looking forward to learn coding in broader aspects 
 - 📫 you may text me on LinkedIn 
 
